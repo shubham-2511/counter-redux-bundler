@@ -7282,6 +7282,16 @@ redent@^3.0.0:
     indent-string "^4.0.0"
     strip-indent "^3.0.0"
 
+redux-bundler-react@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/redux-bundler-react/-/redux-bundler-react-1.2.0.tgz#c7dec9864e8f1dda1cbc97c8232c41cc6c800471"
+  integrity sha512-vyZMnt+uXyhihoZu8CyEQOfJIbhvl+yhvrL+WB+yo6kckYPBXOfXNssiviHrOb49BSWb30BRGQ6HX/ydk39Tvg==
+
+redux-bundler@^28.0.3:
+  version "28.0.3"
+  resolved "https://registry.yarnpkg.com/redux-bundler/-/redux-bundler-28.0.3.tgz#dace744216edc02d8a564e13247487044138609a"
+  integrity sha512-bJN7SMEeGoqXymLStEY1f5cBZwJRgFux8HfcVOM/xRsy/ddqXO/zdK3m/YDxyRNEslOouIWDA9Q2QLykk4hyeg==
+
 regenerate-unicode-properties@^10.0.1:
   version "10.0.1"
   resolved "https://registry.yarnpkg.com/regenerate-unicode-properties/-/regenerate-unicode-properties-10.0.1.tgz#7f442732aa7934a3740c779bb9b3340dccc1fb56"
